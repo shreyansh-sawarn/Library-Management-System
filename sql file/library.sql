@@ -68,8 +68,8 @@ INSERT INTO `tblauthors` (`id`, `AuthorName`, `creationDate`, `UpdationDate`) VA
 (2, 'Chetan Bhagat', '2020-04-01 14:30:23', '2020-04-01 15:15:09'),
 (3, 'Anita Desai', '2020-04-01 14:35:08', NULL),
 (4, 'HC Verma', '2020-04-01 14:35:21', NULL),
-(5, 'R.D. Sharma ', '2020-04-01 14:35:36', NULL),
-(6, 'Sakshi Sharma', '2020-04-01 15:22:03', NULL);
+(5, 'R.D. Sharma ', '2020-04-01 14:35:36', NULL);
+
 
 -- --------------------------------------------------------
 
